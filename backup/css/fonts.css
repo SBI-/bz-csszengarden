@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'blender_boldbold';
+    src: url('../fonts/blender-bold-webfont.eot');
+    src: url('../fonts/blender-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-bold-webfont.woff') format('woff'),
+         url('../fonts/blender-bold-webfont.ttf') format('truetype'),
+         url('../fonts/blender-bold-webfont.svg#blender_boldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'blender_bold_italicBdIt';
+    src: url('../fonts/blender-bolditalic-webfont.eot');
+    src: url('../fonts/blender-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-bolditalic-webfont.woff') format('woff'),
+         url('../fonts/blender-bolditalic-webfont.ttf') format('truetype'),
+         url('../fonts/blender-bolditalic-webfont.svg#blender_bold_italicBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blenderbook';
+    src: url('../fonts/blender-book-webfont.eot');
+    src: url('../fonts/blender-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-book-webfont.woff') format('woff'),
+         url('../fonts/blender-book-webfont.ttf') format('truetype'),
+         url('../fonts/blender-book-webfont.svg#blenderbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blenderbook_italic';
+    src: url('../fonts/blender-bookitalic-webfont.eot');
+    src: url('../fonts/blender-bookitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-bookitalic-webfont.woff') format('woff'),
+         url('../fonts/blender-bookitalic-webfont.ttf') format('truetype'),
+         url('../fonts/blender-bookitalic-webfont.svg#blenderbook_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blenderheavy';
+    src: url('../fonts/blender-heavy-webfont.eot');
+    src: url('../fonts/blender-heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-heavy-webfont.woff') format('woff'),
+         url('../fonts/blender-heavy-webfont.ttf') format('truetype'),
+         url('../fonts/blender-heavy-webfont.svg#blenderheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blendermedium';
+    src: url('../fonts/blender-medium-webfont.eot');
+    src: url('../fonts/blender-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-medium-webfont.woff') format('woff'),
+         url('../fonts/blender-medium-webfont.ttf') format('truetype'),
+         url('../fonts/blender-medium-webfont.svg#blendermedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blendermedium_italic';
+    src: url('../fonts/blender-mediumitalic-webfont.eot');
+    src: url('../fonts/blender-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-mediumitalic-webfont.woff') format('woff'),
+         url('../fonts/blender-mediumitalic-webfont.ttf') format('truetype'),
+         url('../fonts/blender-mediumitalic-webfont.svg#blendermedium_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blenderthin';
+    src: url('../fonts/blender-thin-webfont.eot');
+    src: url('../fonts/blender-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-thin-webfont.woff') format('woff'),
+         url('../fonts/blender-thin-webfont.ttf') format('truetype'),
+         url('../fonts/blender-thin-webfont.svg#blenderthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'blenderthin_italic';
+    src: url('../fonts/blender-thinitalic-webfont.eot');
+    src: url('../fonts/blender-thinitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/blender-thinitalic-webfont.woff') format('woff'),
+         url('../fonts/blender-thinitalic-webfont.ttf') format('truetype'),
+         url('../fonts/blender-thinitalic-webfont.svg#blenderthin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
